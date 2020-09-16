@@ -1,0 +1,22 @@
+@CHARSET "EUC-KR";
+
+table.type_board{
+   border_collaspe: collaspe;
+   text-allign: center;
+   line-height: 1.5;
+   border-top: 1px solic #ccc;
+   border-left: 3px solid #369;
+   margin : 20px 10px;
+}
+table.type_board th{
+   font-weight: bold;
+   color : #153d73;
+   border-right: 1px solid #ccc;
+   border-bottom: 1px solid #ccc;
+   background : #94EB32;
+}
+table.type_board td {
+    vertical-align: top;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
